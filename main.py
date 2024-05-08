@@ -1,7 +1,7 @@
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import time
 import os
-hostName = "cadenthecreator.github.io"
+hostName = "localhost"
 serverPort = 80
 
 
